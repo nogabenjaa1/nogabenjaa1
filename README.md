@@ -1,3 +1,5 @@
+![Banner](https://github.com/nogabenjaa1/nogabenjaa1/blob/main/banner.png)
+
 <h1> Benjamin / nogabenjaa1</h1>
 
 <h2 align="left">About me:</h2>
