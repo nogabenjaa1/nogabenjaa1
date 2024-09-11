@@ -4,7 +4,8 @@
 <p>I am a Computer Science undergraduate student with one year of experience as an independent developer. I possess strong problem-solving skills and adaptability, and I am passionate about continuously learning new development methodologies.</p>
 <h2></h2>
 
-<p>I am currently refining my knowledge of Python while learning languages such as C and PHP.<br>
+<p>I am currently refining my knowledge of Python while learning languages such as C and PHP.
+<p>My goal is to become a Full Stack Developer, mastering both frontend and backend technologies to create complete and efficient solutions.</p><br>
 "It's never enough when you're passionate; keep learning."</p>
 <h2>Some Programming Languages I use:</h2>
 <a href="https://www.python.org" target="blank">
@@ -31,9 +32,10 @@
 </a>
 <h2>My README stats:</h2>
 
-![nogabenjaa1 GitHub stats](https://github-readme-stats.vercel.app/api?username=nogabenjaa1&show_icons=true&theme=default&bg_color=000000&title_color=800080&text_color=ffffff&icon_color=800020)
+![nogabenjaa1 GitHub stats](https://github-readme-stats.vercel.app/api?username=nogabenjaa1&show_icons=true&theme=default&bg_color=000000&title_color=800080&text_color=ffffff&icon_color=800080)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nogabenjaa1&theme=default&background=000000&ring=800080&fire=800080&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nogabenjaa1&theme=default&background=000000&ring=800080&fire=800080&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&currStreakNum=ffffff)](https://git.io/streak-stats)
+
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=nogabenjaa1&theme=flat&background=000000&title=800080&text=ffffff&icon=800020)](https://github.com/ryo-ma/github-profile-trophy)
 
